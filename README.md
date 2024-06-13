@@ -1,2 +1,2 @@
 # Timmy Clarke
-This is the final project for Web Design 1. It is a website
+This is the final project for Web Design 1. It is a website dedicated to me. I wanted the font to be fun and the website itself to be minimalistic. The bio says everything you need to know about me and I provided links to my youtube and my instagram. 
