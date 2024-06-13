@@ -1,13 +1,43 @@
-body {
-    background: lightgray;
+
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&family=Quicksand:wght@300..700&display=swap');
+
+
+
+
+
+
+
+:root {
+  --font1: "Quicksand";
 }
+
 
 main {
-    width: 40em;
-    margin-inline: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  background-color: rgb(247, 247, 226);
+  
+  font-family: var(--font1);
 }
 
-main img {
-    width: 100%;
-    display: block;
+article {
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+
+  align-items: center;
+  
+  padding: 1em;
+}
+
+
+
+aside img { 
+  width: 100%;
+  max-width: 100%;
+
+ 
+  height: 100vh;
+  object-fit: cover;
 }
